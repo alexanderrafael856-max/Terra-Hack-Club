@@ -6,7 +6,7 @@ namespace MyApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World what is your name?");
+            Console.WriteLine("Hello, there! what is your name?");
             string name = Console.ReadLine();
             Console.WriteLine("Nice to meet you, " + name + "!");
 
